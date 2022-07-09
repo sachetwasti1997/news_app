@@ -6,7 +6,7 @@ import com.sachet.news_client.data.util.Resource
 import kotlinx.coroutines.flow.Flow
 
 interface NewsRepository {
-    suspend fun getNewsHeadLines(): Resource<NewsResponse>
+    suspend fun getNewsHeadLines(country: String, page: Int): Resource<NewsResponse>
     suspend fun getSearchedNews(searchQuery: String): Resource<NewsResponse>
     suspend fun saveNews(article: Article)
     suspend fun deleteNews(article: Article)

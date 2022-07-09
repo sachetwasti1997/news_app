@@ -7,5 +7,5 @@ import com.sachet.news_client.domain.repository.NewsRepository
 class GetNewsHeadLinesUseCase(
     private val newsRepository: NewsRepository
 ) {
-    suspend fun execute() = newsRepository.getNewsHeadLines()
+    suspend fun execute(country: String, page: Int) = newsRepository.getNewsHeadLines(country, page)
 }

@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Anita Gates",
+      "title": "Tony Sirico, an Eccentric Gangster on ‘The Sopranos,’ Dies at 79 - The New York Times",
+      "description": "A familiar face in Woody Allen movies, he became widely known for his portrayal of Paulie Walnuts on the hit HBO series.",
+      "url": "https://www.nytimes.com/2022/07/08/arts/television/tony-sirico-dead.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/07/10/multimedia/08sirico-1/08sirico-1-facebookJumbo.jpg",
+      "publishedAt": "2022-07-09T12:28:00Z",
+      "content": "If Im with five other Paulies, he told The New York Times in 2007, imagining a fairly unlikely situation, and somebody yells, Hey, Paulie, I know its for me.\r\nAfter The Sopranos ended in 2007, he oft… [+1628 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Sri Lanka protesters, angered by economic crisis, storm president's house - Reuters.com",
+      "description": "Thousands of Sri Lankan protesters stormed into the president's official residence in Colombo on Saturday, demanding his resignation as public anger grows over the country's worst economic crisis in seven decades.",
+      "url": "https://www.reuters.com/world/asia-pacific/sri-lanka-police-fire-tear-gas-anti-government-protesters-2022-07-09/",
+      "urlToImage": "https://www.reuters.com/resizer/4j-WGY49vQsoGym-zT_I0aDaZL0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/K7VPDOGEPJL6BOFWYL4STAIEHQ.jpg",
+      "publishedAt": "2022-07-09T12:14:00Z",
+      "content": "COLOMBO, July 9 (Reuters) - Thousands of Sri Lankan protesters stormed into the president's official residence in Colombo on Saturday, demanding his resignation as public anger grows over the country… [+3829 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Lauren Gambino",
+      "title": "Biden in crisis mode as specter of one-term Carter haunts White House - The Guardian US",
+      "description": "President urged to act more forcefully to deal with rising inflation, gun violence and dire supreme court rulings",
+      "url": "https://amp.theguardian.com/us-news/2022/jul/09/biden-democrats-jimmy-carter-crisis-white-house",
+      "urlToImage": "https://i.guim.co.uk/img/media/923ee62d5505c09b39d08a4fd1cf765135cf8a3f/0_106_4500_2700/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=94e3567cdfabcaf50f5a5153358ad696",
+      "publishedAt": "2022-07-09T08:46:00Z",
+      "content": "At an Independence Day barbecue, crises cascading around him, Joe Biden declared that he had never been more optimistic about America than I am today.\r\nOf course there were challenges, grave ones, th… [+8729 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Dan Martin",
+      "title": "Yankees steamroll Red Sox to open up 15.5-game lead in AL East - New York Post ",
+      "description": "The Yankees are starting to look like Secretariat in the Belmont Stakes.",
+      "url": "https://nypost.com/2022/07/08/yankees-steamroll-red-sox-to-open-up-15-5-game-lead-in-al-east/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/07/070822Yankees012CW.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2022-07-09T08:04:27Z",
+      "content": "BOSTON The Yankees are starting to look like Secretariat in the Belmont Stakes.\r\nEven on a night when Nestor Cortes came up with his roughest start of the season, the Yankees used their offense and b… [+3997 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Alia Shoaib",
+      "title": "Trump's ex-White House counsel Pat Cipollone testifies to Jan. 6 committee - Business Insider",
+      "description": "Rep. Zoe Lofgren said that Jan.6 committee \"learned a few things\" from the testimony of Pat Cipollone, the former White House counsel.",
+      "url": "https://www.businessinsider.com/cipollone-testifies-before-jan-6-panel-2022-7",
+      "urlToImage": "https://i.insider.com/62c941528045920019ae54da?width=1200&format=jpeg",
+      "publishedAt": "2022-07-09T08:00:22Z",
+      "content": "Former White House counsel Pat Cipollone \"did not contradict\" testimony of previous witnesses when he appeared on Friday before the House select committee investigating the January 6, 2021, Capitol a… [+2436 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TMZ"
+      },
+      "author": "TMZ Staff",
+      "title": "Armie Hammer Selling Timeshares in Cayman Islands Office - TMZ",
+      "description": "Armie Hammer is working as a timeshare salesman in the Cayman Islands, as evidenced in a new video, where the actor can be overheard pitching the benefits of owning part of a pad in the beautiful vacation spot.",
+      "url": "https://www.tmz.com/2022/07/09/armie-hammer-cayman-islands-timeshare-office-salesman/",
+      "urlToImage": "https://imagez.tmz.com/image/be/16by9/2022/07/08/be9f18c91a5740aea48a671dfadd9620_xl.jpg",
+      "publishedAt": "2022-07-09T08:00:00Z",
+      "content": "Armie Hammer is indeed working as a timeshare salesman in the Cayman Islands ... the actor was heard pitching the benefits of owning property in the beautiful vacation spot.\r\nArmie is very much in sa… [+879 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Brie Stimson",
+      "title": "Shawn Mendes postpones his world tour, citing his 'mental health' - Fox News",
+      "description": "Shawn Mendes is postponing his global tour to take care of his \"mental health.\"",
+      "url": "https://www.foxnews.com/entertainment/shawn-mendes-postpones-world-tour-mental-health",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/07/shawn-mendes.jpg",
+      "publishedAt": "2022-07-09T06:02:08Z",
+      "content": "Shawn Mendes announced Friday evening hes decided to postpone his world tour, citing his \"mental health.\" \r\nThe \"Señorita\" singer said he would have to reschedule tour dates through at least Uncasvil… [+3341 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Rebecca Rosenberg",
+      "title": "Elon Musk: a look at the Tesla CEO's girlfriends, ex-wives and children - Fox News",
+      "description": "Billionaire Elon Musk has fathered 10 children with three womem, including twins he had with Neuralink employee Shivon Zilis last year, according to a new report.",
+      "url": "https://www.foxnews.com/entertainment/elon-musk-tesla-ceos-girlfriends-ex-wives-children",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/07/Elon-Musk-split-with-kid.jpg",
+      "publishedAt": "2022-07-09T06:00:33Z",
+      "content": "The worlds richest man, Elon Musk, has been fruitful and has multiplied.\r\nThe tech icon has 10 children with three women including twins born last year.\r\nMusk, 51, and a top executive at one of his c… [+5989 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "U.S., Chinese foreign ministers hold first in person talks since October - Reuters.com",
+      "description": "U.S. Secretary of State Antony Blinken and China's Foreign Minister Wang Yi met on Saturday for the first in-person talks since October after attending a G20 summit where the top U.S. diplomat led efforts to pressure Russia over its war in Ukraine.",
+      "url": "https://www.reuters.com/world/blinken-meets-chinas-wang-after-leading-pressure-efforts-russia-2022-07-09/",
+      "urlToImage": "https://www.reuters.com/resizer/thkhHneSH6f3cMc5Z5g6OQuzpTM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/43KOEL7LVRK4DPY7RKRYZASK6E.jpg",
+      "publishedAt": "2022-07-09T04:59:00Z",
+      "content": "NUSA DUA, Indonesia, July 9 (Reuters) - U.S. Secretary of State Antony Blinken and China's Foreign Minister Wang Yi met on Saturday for the first in-person talks since October after attending a G20 s… [+3593 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "author": "Philip Michaels",
+      "title": "iPhone 14 release — which current iPhones will be discontinued? - Tom's Guide",
+      "description": "Here's what could happen when the new iPhone arrives",
+      "url": "https://www.tomsguide.com/news/apple-fall-2022-iphone-lineup",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/U5iD5QKutU29iccjPoskZm-1200-80.jpg",
+      "publishedAt": "2022-07-09T04:30:28Z",
+      "content": "The new iPhone 14 arrives sometime this fall — iPhone 14 release date speculation suggests that the phones will appear in September — meaning you'll have a choice of new Apple smartphones in just a f… [+8547 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "By <a href=\"/profiles/rhea-mogul\">Rhea Mogul</a> and <a href=\"/profiles/helen-regan\">Helen Regan</a>, CNN",
+      "title": "Live updates: Assassination of Japan's Shinzo Abe - CNN",
+      "description": "Former Japanese Prime Minister Shinzo Abe died at age 67 after being shot during a speech on Friday in Nara, Japan. Follow here for the latest live news updates.",
+      "url": "https://www.cnn.com/asia/live-news/shinzo-abe-japan-assassination-07-09-22-intl-hnk/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220708051006-36-japan-shinzo-abe-obit-super-tease.jpg",
+      "publishedAt": "2022-07-09T04:25:00Z",
+      "content": "Japanese officials will soon begin discussing funeral arrangements for former Prime Minister Shinzo Abe, who was assassinated in a daylight shooting on Friday, sending a nation unaccustomed to gun vi… [+2408 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SciTechDaily"
+      },
+      "author": null,
+      "title": "Extinct Creatures Fill Puzzling Gap in the Fossil Record - SciTechDaily",
+      "description": "Research reveals yunnanozoans as the oldest known stem vertebrates. New findings answer questions in the fossil record. The puzzling gap in the fossil record that would explain the evolution of invertebrates to vertebrates has long perplexed scientists. Verte…",
+      "url": "https://scitechdaily.com/extinct-creatures-fill-puzzling-gap-in-the-fossil-record/",
+      "urlToImage": "https://scitechdaily.com/images/Yunnanozoan-Artistic-Reconstruction-scaled.jpg",
+      "publishedAt": "2022-07-09T03:36:51Z",
+      "content": "Artistic reconstruction of the yunnanozoan from the Cambrian Chengjiang biota shows basket-like pharyngeal skeletons. Credit: Dinghua Yang\r\nResearch reveals yunnanozoans as the oldest known stem vert… [+4848 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": null,
+      "title": "Yosemite wildfire is latest threat to giant sequoia trees - The Associated Press - en Español",
+      "description": "YOSEMITE NATIONAL PARK, Calif. (AP) — The largest grove of giant sequoias in Yosemite National Park was closed Friday  and hundreds of people ordered evacuated nearby as a wildfire burning through dense forest became the latest in recent years to threaten the…",
+      "url": "https://apnews.com/article/wildfires-fires-california-trees-6506b3bad14eee6cb19c1e7f16871146",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/4487064eae7a4d9d8bfc4ac731c67304/2000.jpeg",
+      "publishedAt": "2022-07-09T03:00:13Z",
+      "content": "YOSEMITE NATIONAL PARK, Calif. (AP) The largest grove of giant sequoias in Yosemite National Park was closed Friday and hundreds of people ordered evacuated nearby as a wildfire burning through dense… [+2898 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Brittany Shammas",
+      "title": "After Highland Park shooting, a new priest tries to comfort his flock - The Washington Post",
+      "description": "Hernan Cuevas arrived in Highland Park four days before the shooting. Now, he was now responsible for leading his church through a horrific act of violence.",
+      "url": "https://www.washingtonpost.com/nation/2022/07/08/highland-park-shooting-priest/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SGFXTJX6C4I6ZM45OEYJC2ABJM.jpg&w=1440",
+      "publishedAt": "2022-07-09T01:29:10Z",
+      "content": "Comment on this story\r\nHIGHLAND PARK, Ill. Every pew was filled, and chairs had been pulled out to accommodate the overflow crowd, when the priest took to the lectern and cleared his throat.\r\nThe Rev… [+6788 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Bay Area LGBT community frustrated by response to monkeypox outbreak - KPIX CBS SF Bay Area",
+      "description": "The Bay Area’s LGBT community is going into the weekend uncertain about how to protect themselves against a monkeypox epidemic. Reek Cowan reports. (7-8-22)",
+      "url": "https://www.youtube.com/watch?v=W_-wu-FmOJk",
+      "urlToImage": "https://i.ytimg.com/vi/W_-wu-FmOJk/hqdefault.jpg",
+      "publishedAt": "2022-07-09T01:22:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Nolan Hicks",
+      "title": "NYC Democrats blast Biden over monkeypox vaccine mess - New York Post ",
+      "description": "NYC Democrats running to represent LGBTQ community ripped Biden for letting red tape tie up the importation of 1 million doses of monkeypox vaccine.",
+      "url": "https://nypost.com/2022/07/08/nyc-democrats-blast-biden-over-monkeypox-vaccine-mess/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/07/newspress-collage-22975417-1657326805415.jpg?quality=75&strip=all&1657312730&w=1024",
+      "publishedAt": "2022-07-09T00:49:00Z",
+      "content": "Just get us the shots, Joe! \r\nTop Democrats running to represent the heart of the Big Apple’s LGBTQ community in Congress ripped the Biden administration Friday for letting red tape tie up the import… [+6148 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Russian Machine Never Breaks"
+      },
+      "author": null,
+      "title": "The Washington Capitals' final three selections on day two of the 2022 NHL Draft - Russian Machine Never Breaks",
+      "description": "The Washington Capitals held three picks across the fifth, sixth, and seventh rounds of the 2022 NHL Draft. The selections came at pick numbers 149th, 181st, and 213th respectively. With the picks, the Caps added two more forwards and one...",
+      "url": "https://russianmachineneverbreaks.com/2022/07/08/the-washington-capitals-final-three-selections-on-day-two-of-the-2022-nhl-draft/",
+      "urlToImage": "https://i0.wp.com/russianmachineneverbreaks.com/wp-content/uploads/2022/07/capitals-picks-5-7.jpeg?fit=1200%2C650&ssl=1",
+      "publishedAt": "2022-07-09T00:32:41Z",
+      "content": "The Washington Capitals held three picks across the fifth, sixth, and seventh rounds of the 2022 NHL Draft. The selections came at pick numbers 149th, 181st, and 213th respectively.\r\nWith the picks, … [+2411 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "MLB All-Star Game: Aaron Judge leads all vote-getters as Yankees, Blue Jays, Dodgers each land two starters - CBS Sports",
+      "description": "Braves outfielder Ronald Acuña Jr. got the most votes in the National League",
+      "url": "https://www.cbssports.com/mlb/news/mlb-all-star-game-aaron-judge-leads-all-vote-getters-as-yankees-blue-jays-dodgers-each-place-two-starters/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/06/23/192d07a5-06b3-44b9-95cc-6f7c9287468b/thumbnail/1200x675/7f7a715d2e66f15d88e57014b4825df7/aaron-judge-getty.jpg",
+      "publishedAt": "2022-07-09T00:03:00Z",
+      "content": "On Friday evening, Major League Baseball announced the starters for the 2022 All-Star Game, which will take place on Tuesday, July 19 at Dodger Stadium in Los Angeles. The voting results from the lea… [+2828 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Neil Irwin, Courtenay Brown",
+      "title": "What recession? June jobs report points to solid growth - Axios",
+      "description": "The economy may not be coming in for a landing after all.",
+      "url": "https://www.axios.com/2022/07/08/jobs-report-june-recession",
+      "urlToImage": "https://images.axios.com/YJ5YcjfMvrDX3MqlaSzkMS3dPDs=/0x0:1920x1080/1366x768/2022/07/08/1657294457678.jpg",
+      "publishedAt": "2022-07-08T23:48:24Z",
+      "content": "Over the last few months, the great debate has been over whether 2021's hyper-growth will end with a soft landing a gradual slowdown or a hard landing that becomes a nasty recession.\r\nWhy it matters:… [+3609 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Anemona Hartocollis",
+      "title": "Columbia Loses Its No. 2 Spot in the U.S. News Rankings - The New York Times",
+      "description": "U.S. News & World Report announced that it had “unranked” the Ivy League university after being unable to verify its data.",
+      "url": "https://www.nytimes.com/2022/07/08/us/us-news-rankings-columbia.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/07/08/us/08columbia-rankings01/08columbia-rankings01-facebookJumbo.jpg",
+      "publishedAt": "2022-07-08T23:22:56Z",
+      "content": "The rankings are influential among students applying to college because objectively comparing schools and visiting every campus they are interested in can be difficult. College presidents have bitter… [+1951 chars]"
+    }
+  ]
+}

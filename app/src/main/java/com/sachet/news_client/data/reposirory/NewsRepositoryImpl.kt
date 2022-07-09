@@ -21,8 +21,8 @@ class NewsRepositoryImpl(
         return Resource.Error(response.message())
     }
 
-    override suspend fun getNewsHeadLines(): Resource<NewsResponse> {
-        return responseToResource(newsRemoteDataSource.getTopHeadLines())
+    override suspend fun getNewsHeadLines(country: String, page: Int): Resource<NewsResponse> {
+        return responseToResource(newsRemoteDataSource.getTopHeadLines(country, page))
     }
 
     override suspend fun getSearchedNews(searchQuery: String): Resource<NewsResponse> {
