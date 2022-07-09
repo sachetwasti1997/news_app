@@ -1,4 +1,8 @@
 package com.sachet.news_client.domain.usecase
 
-class GetSavedNewsUseCase {
+import com.sachet.news_client.domain.repository.NewsRepository
+
+
+class GetSavedNewsUseCase(private val newsRepository: NewsRepository) {
+    fun execute() = newsRepository.getSavedNews()
 }
